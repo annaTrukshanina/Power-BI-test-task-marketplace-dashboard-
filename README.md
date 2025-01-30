@@ -88,4 +88,7 @@ The reference design showcases:
 - Validate metrics against source data for accuracy.
 - Optimize the dashboard for performance with large datasets.
 
+## Final Dashboard
+
+Below is a screenshot of the completed dashboard showcasing the results:
 ![image](https://github.com/user-attachments/assets/23e206f5-a8d1-4959-9af6-5526827b1a83)
